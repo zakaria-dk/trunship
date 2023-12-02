@@ -101,6 +101,7 @@
     top: 67px;
     left: 0;
     width: 100%;
+    z-index: 1;
   }
   .burger-nav-list-link {
     background-color: var(--white-color);
